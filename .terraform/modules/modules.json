@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"intersight_policy_bundle","Source":"git::https://github.com/lancexpoc/POD1-mod.git","Dir":".terraform/modules/intersight_policy_bundle"}]}

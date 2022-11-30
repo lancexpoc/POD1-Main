@@ -1,7 +1,7 @@
 terraform {
 
   backend "remote" {
-    organization = "default"
+    organization = "xpoc"
 
     workspaces {
       name = "POD1-tfcb"
