@@ -31,7 +31,8 @@ output "org_default_moid" {
 }
 
 module "intersight_policy_bundle" {
-  source = "github.com/pl247/tf-intersight-policy-bundle"
+  #source = "github.com/pl247/tf-intersight-policy-bundle"
+  source = "github.com/lancexpoc/POD1-mod"
 
   # external sources
   organization    = data.intersight_organization_organization.default.id
